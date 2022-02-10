@@ -1,0 +1,26 @@
+/*
+Template Name: Minton - Admin & Dashboard Template
+Author: CoderThemes
+Version: 6.0.0
+Website: https://coderthemes.com/
+Contact: support@coderthemes.com
+File: Main Css File (Default Demo)
+*/
+
+
+// Structure
+@import "admin/style"; 
+@import "admin/custom"; 
+@import "frontend/style"; 
+@import "frontend/custom"; 
+@import "frontend/colors";
+ 
+
+
+// page frontend
+@import "frontend-page/comman";  
+@import "frontend-page/header";  
+@import "frontend-page/home";  
+@import "frontend-page/listing";  
+
+ 

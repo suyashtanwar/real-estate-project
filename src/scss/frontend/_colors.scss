@@ -1,0 +1,4264 @@
+/*===============================================
+	All Colors Option 
+================================================ */
+/*-------------- Red Color Option --------------------*/
+/*-------------- Green Color Option --------------------*/
+/*-------------- Blue Color Option --------------------*/
+/*-------------- Yellow Color Option --------------------*/
+/*-------------- Blue Dark Color Option --------------------*/
+/*-------------- Ocean Green Color Option --------------------*/
+/*-------------- Purple Color Option --------------------*/
+/*-------------- Good Red Color Option --------------------*/
+/*-------------- Good Green Color Option --------------------*/
+/*-------------- Blue 2 Color Option --------------------*/
+.resido-front{
+.red-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		&:focus {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #f02c2d;
+				background: #f02c2d;
+			}
+			&:focus {
+				.red-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #f02c2d;
+							background: #f02c2d;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #f02c2d;
+		background: #f02c2d;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #f02c2d;
+				background: #f02c2d;
+			}
+		}
+		label.active {
+			background-color: #f02c2d;
+			background: #f02c2d;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			box-shadow: 0 8px 5px rgba(240, 44, 45, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(240, 44, 45, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+			}
+		}
+		.ui-widget-header {
+			background-color: #f02c2d;
+			background: #f02c2d;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+				&:focus {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+				&:hover {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+			}
+			>span {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+				&:focus {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+				&:hover {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+				&:hover {
+					background-color: #f02c2d;
+					background: #f02c2d;
+					border-color: #f02c2d;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #f02c2d;
+		background: #f02c2d;
+		border-color: #f02c2d;
+		&:hover {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		&:focus {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+	}
+	.btn.search-btn {
+		background-color: #f02c2d;
+		background-color: #f02c2d;
+		background: #f02c2d;
+		background: #f02c2d;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		&:focus {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		color: #f02c2d;
+		border-color: #f02c2d;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		&:focus {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+		color: #f02c2d;
+		border-color: #f02c2d;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #f02c2d;
+			background: #f02c2d;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #f02c2d;
+				background: #f02c2d;
+				border-color: #f02c2d;
+			}
+		}
+		.nav-link.active {
+			background-color: #f02c2d;
+			background: #f02c2d;
+			border-color: #f02c2d;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #f02c2d;
+						background: #f02c2d;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #f02c2d;
+						background: #f02c2d;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #f02c2d;
+		background: #f02c2d;
+		border-color: #f02c2d;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #f02c2d;
+				background: #f02c2d;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #f02c2d;
+						background: #f02c2d;
+						border-color: #f02c2d;
+					}
+					&:focus {
+						background-color: #f02c2d;
+						background: #f02c2d;
+						border-color: #f02c2d;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #f02c2d;
+		}
+		&:focus {
+			color: #f02c2d;
+		}
+	}
+	a {
+		&:hover {
+			color: #f02c2d;
+		}
+	}
+	.theme-cl {
+		color: #f02c2d;
+	}
+	.btn.btn-theme-light {
+		color: #f02c2d;
+	}
+	.bl-continue {
+		color: #f02c2d;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #f02c2d;
+					border-color: #f02c2d;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #f02c2d;
+				}
+				a {
+					&:hover {
+						color: #f02c2d;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #f02c2d;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #f02c2d;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #f02c2d;
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #f02c2d;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #f02c2d;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #f02c2d;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #f02c2d;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #f02c2d;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #f02c2d;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #f02c2d;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #f02c2d;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #f02c2d;
+		}
+	}
+	.listing-card-info-price {
+		color: #f02c2d;
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				border-color: #f02c2d;
+			}
+		}
+	}
+}
+.green-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		&:focus {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #0fca98;
+				background: #0fca98;
+			}
+			&:focus {
+				.green-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #0fca98;
+							background: #0fca98;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #0fca98;
+		background: #0fca98;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #0fca98;
+				background: #0fca98;
+			}
+		}
+		label.active {
+			background-color: #0fca98;
+			background: #0fca98;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #0fca98;
+			background: #0fca98;
+			box-shadow: 0 8px 5px rgba(0, 186, 116, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(0, 186, 116,0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+			}
+		}
+		.ui-widget-header {
+			background-color: #0fca98;
+			background: #0fca98;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+				&:focus {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+				&:hover {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+			}
+			>span {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+				&:focus {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+				&:hover {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+				&:hover {
+					background-color: #0fca98;
+					background: #0fca98;
+					border-color: #0fca98;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #0fca98;
+		background: #0fca98;
+		border-color: #0fca98;
+		&:hover {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		&:focus {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+	}
+	.btn.search-btn {
+		background-color: #0fca98;
+		background-color: #0fca98;
+		background: #0fca98;
+		background: #0fca98;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		&:focus {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		color: #0fca98;
+		border-color: #0fca98;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		&:focus {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+		color: #0fca98;
+		border-color: #0fca98;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #0fca98;
+			background: #0fca98;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #0fca98;
+				background: #0fca98;
+				border-color: #0fca98;
+			}
+		}
+		.nav-link.active {
+			background-color: #0fca98;
+			background: #0fca98;
+			border-color: #0fca98;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #0fca98;
+						background: #0fca98;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #0fca98;
+						background: #0fca98;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #0fca98;
+		background: #0fca98;
+		border-color: #0fca98;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #0fca98;
+				background: #0fca98;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #0fca98;
+						background: #0fca98;
+						border-color: #0fca98;
+					}
+					&:focus {
+						background-color: #0fca98;
+						background: #0fca98;
+						border-color: #0fca98;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #0fca98;
+		}
+		&:focus {
+			color: #0fca98;
+		}
+	}
+	a {
+		&:hover {
+			color: #0fca98;
+		}
+	}
+	.theme-cl {
+		color: #0fca98;
+	}
+	.btn.btn-theme-light {
+		color: #0fca98;
+		background: rgba(0, 186, 116, 0.1);
+	}
+	.bl-continue {
+		color: #0fca98;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #0fca98;
+					border-color: #0fca98;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #0fca98;
+				}
+				a {
+					&:hover {
+						color: #0fca98;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #0fca98;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #0fca98;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #0fca98;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #0fca98;
+				border-color: #0fca98;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #0fca98;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #0fca98;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #0fca98;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #0fca98;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #0fca98;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #0fca98;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #0fca98;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #0fca98;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #0fca98;
+		}
+	}
+}
+.blue-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		&:focus {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #1266e3;
+				background: #1266e3;
+			}
+			&:focus {
+				.blue-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #1266e3;
+							background: #1266e3;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #1266e3;
+		background: #1266e3;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #1266e3;
+				background: #1266e3;
+			}
+		}
+		label.active {
+			background-color: #1266e3;
+			background: #1266e3;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #1266e3;
+			background: #1266e3;
+			box-shadow: 0 8px 5px rgba(0, 88, 243, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(0, 88, 243, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+			}
+		}
+		.ui-widget-header {
+			background-color: #1266e3;
+			background: #1266e3;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+				&:focus {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+				&:hover {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+			}
+			>span {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+				&:focus {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+				&:hover {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+				&:hover {
+					background-color: #1266e3;
+					background: #1266e3;
+					border-color: #1266e3;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #1266e3;
+		background: #1266e3;
+		border-color: #1266e3;
+		&:hover {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		&:focus {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+	}
+	.btn.search-btn {
+		background-color: #1266e3;
+		background-color: #1266e3;
+		background: #1266e3;
+		background: #1266e3;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		&:focus {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		color: #1266e3;
+		border-color: #1266e3;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		&:focus {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+		color: #1266e3;
+		border-color: #1266e3;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #1266e3;
+			background: #1266e3;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #1266e3;
+				background: #1266e3;
+				border-color: #1266e3;
+			}
+		}
+		.nav-link.active {
+			background-color: #1266e3;
+			background: #1266e3;
+			border-color: #1266e3;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #1266e3;
+						background: #1266e3;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #1266e3;
+						background: #1266e3;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #1266e3;
+		background: #1266e3;
+		border-color: #1266e3;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #1266e3;
+				background: #1266e3;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #1266e3;
+						background: #1266e3;
+						border-color: #1266e3;
+					}
+					&:focus {
+						background-color: #1266e3;
+						background: #1266e3;
+						border-color: #1266e3;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #1266e3;
+		}
+		&:focus {
+			color: #1266e3;
+		}
+	}
+	a {
+		&:hover {
+			color: #1266e3;
+		}
+	}
+	.theme-cl {
+		color: #1266e3;
+	}
+	.btn.btn-theme-light {
+		color: #1266e3;
+		background: rgba(0, 88, 243, 0.1);
+	}
+	.bl-continue {
+		color: #1266e3;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #1266e3;
+					border-color: #1266e3;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #1266e3;
+				}
+				a {
+					&:hover {
+						color: #1266e3;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #1266e3;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #1266e3;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #1266e3;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #1266e3;
+				border-color: #1266e3;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #1266e3;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #1266e3;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #1266e3;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #1266e3;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #1266e3;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #1266e3;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #1266e3;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #1266e3;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #1266e3;
+		}
+	}
+	.listing-card-info-price {
+		color: #1266e3;
+	}
+}
+.yellow-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		&:focus {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #ffa50d;
+				background: #ffa50d;
+			}
+			&:focus {
+				.yellow-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #ffa50d;
+							background: #ffa50d;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #ffa50d;
+		background: #ffa50d;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #ffa50d;
+				background: #ffa50d;
+			}
+		}
+		label.active {
+			background-color: #ffa50d;
+			background: #ffa50d;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			box-shadow: 0 8px 5px rgba(255, 165, 13, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(255, 165, 13, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+			}
+		}
+		.ui-widget-header {
+			background-color: #ffa50d;
+			background: #ffa50d;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+				&:focus {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+				&:hover {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+			}
+			>span {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+				&:focus {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+				&:hover {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+				&:hover {
+					background-color: #ffa50d;
+					background: #ffa50d;
+					border-color: #ffa50d;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #ffa50d;
+		background: #ffa50d;
+		border-color: #ffa50d;
+		&:hover {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		&:focus {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+	}
+	.btn.search-btn {
+		background-color: #ffa50d;
+		background-color: #ffa50d;
+		background: #ffa50d;
+		background: #ffa50d;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		&:focus {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		color: #ffa50d;
+		border-color: #ffa50d;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		&:focus {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+		color: #ffa50d;
+		border-color: #ffa50d;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #ffa50d;
+			background: #ffa50d;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #ffa50d;
+				background: #ffa50d;
+				border-color: #ffa50d;
+			}
+		}
+		.nav-link.active {
+			background-color: #ffa50d;
+			background: #ffa50d;
+			border-color: #ffa50d;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #ffa50d;
+						background: #ffa50d;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #ffa50d;
+						background: #ffa50d;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #ffa50d;
+		background: #ffa50d;
+		border-color: #ffa50d;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #ffa50d;
+				background: #ffa50d;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #ffa50d;
+						background: #ffa50d;
+						border-color: #ffa50d;
+					}
+					&:focus {
+						background-color: #ffa50d;
+						background: #ffa50d;
+						border-color: #ffa50d;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #ffa50d;
+		}
+		&:focus {
+			color: #ffa50d;
+		}
+	}
+	a {
+		&:hover {
+			color: #ffa50d;
+		}
+	}
+	.theme-cl {
+		color: #ffa50d;
+	}
+	.btn.btn-theme-light {
+		color: #ffa50d;
+		background: rgba(255, 165, 13, 0.1);
+	}
+	.bl-continue {
+		color: #ffa50d;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #ffa50d;
+					border-color: #ffa50d;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #ffa50d;
+				}
+				a {
+					&:hover {
+						color: #ffa50d;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #ffa50d;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #ffa50d;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #ffa50d;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #ffa50d;
+				border-color: #ffa50d;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #ffa50d;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #ffa50d;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #ffa50d;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #ffa50d;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #ffa50d;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #ffa50d;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #ffa50d;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #ffa50d;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #ffa50d;
+		}
+	}
+	.listing-card-info-price {
+		color: #ffa50d;
+	}
+}
+.darkblue-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		&:focus {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #0F52BA;
+				background: #0F52BA;
+			}
+			&:focus {
+				.darkblue-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #0F52BA;
+							background: #0F52BA;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #0F52BA;
+		background: #0F52BA;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #0F52BA;
+				background: #0F52BA;
+			}
+		}
+		label.active {
+			background-color: #0F52BA;
+			background: #0F52BA;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			box-shadow: 0 8px 5px rgba(15, 82, 186, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(15, 82, 186, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+			}
+		}
+		.ui-widget-header {
+			background-color: #0F52BA;
+			background: #0F52BA;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+				&:focus {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+				&:hover {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+			}
+			>span {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+				&:focus {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+				&:hover {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+				&:hover {
+					background-color: #0F52BA;
+					background: #0F52BA;
+					border-color: #0F52BA;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #0F52BA;
+		background: #0F52BA;
+		border-color: #0F52BA;
+		&:hover {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		&:focus {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+	}
+	.btn.search-btn {
+		background-color: #0F52BA;
+		background-color: #0F52BA;
+		background: #0F52BA;
+		background: #0F52BA;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		&:focus {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		color: #0F52BA;
+		border-color: #0F52BA;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		&:focus {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+		color: #0F52BA;
+		border-color: #0F52BA;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #0F52BA;
+			background: #0F52BA;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #0F52BA;
+				background: #0F52BA;
+				border-color: #0F52BA;
+			}
+		}
+		.nav-link.active {
+			background-color: #0F52BA;
+			background: #0F52BA;
+			border-color: #0F52BA;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #0F52BA;
+						background: #0F52BA;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #0F52BA;
+						background: #0F52BA;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #0F52BA;
+		background: #0F52BA;
+		border-color: #0F52BA;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #0F52BA;
+				background: #0F52BA;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #0F52BA;
+						background: #0F52BA;
+						border-color: #0F52BA;
+					}
+					&:focus {
+						background-color: #0F52BA;
+						background: #0F52BA;
+						border-color: #0F52BA;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #0F52BA;
+		}
+		&:focus {
+			color: #0F52BA;
+		}
+	}
+	a {
+		&:hover {
+			color: #0F52BA;
+		}
+	}
+	.theme-cl {
+		color: #0F52BA;
+	}
+	.btn.btn-theme-light {
+		color: #0F52BA;
+		background: rgba(15, 82, 186, 0.1);
+	}
+	.bl-continue {
+		color: #0F52BA;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #0F52BA;
+					border-color: #0F52BA;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #0F52BA;
+				}
+				a {
+					&:hover {
+						color: #0F52BA;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #0F52BA;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #0F52BA;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #0F52BA;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #0F52BA;
+				border-color: #0F52BA;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #0F52BA;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #0F52BA;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #0F52BA;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #0F52BA;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #0F52BA;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #0F52BA;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #0F52BA;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #0F52BA;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #0F52BA;
+		}
+	}
+	.listing-card-info-price {
+		color: #0F52BA;
+	}
+}
+.oceangreen-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		&:focus {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #00A877;
+				background: #00A877;
+			}
+			&:focus {
+				.oceangreen-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #00A877;
+							background: #00A877;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #00A877;
+		background: #00A877;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #00A877;
+				background: #00A877;
+			}
+		}
+		label.active {
+			background-color: #00A877;
+			background: #00A877;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #00A877;
+			background: #00A877;
+			box-shadow: 0 8px 5px rgba(0, 168, 119, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(0, 168, 119, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+			}
+		}
+		.ui-widget-header {
+			background-color: #00A877;
+			background: #00A877;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+				&:focus {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+				&:hover {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+			}
+			>span {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+				&:focus {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+				&:hover {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+				&:hover {
+					background-color: #00A877;
+					background: #00A877;
+					border-color: #00A877;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #00A877;
+		background: #00A877;
+		border-color: #00A877;
+		&:hover {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		&:focus {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+	}
+	.btn.search-btn {
+		background-color: #00A877;
+		background-color: #00A877;
+		background: #00A877;
+		background: #00A877;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		&:focus {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		color: #00A877;
+		border-color: #00A877;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		&:focus {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+		color: #00A877;
+		border-color: #00A877;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #00A877;
+			background: #00A877;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #00A877;
+				background: #00A877;
+				border-color: #00A877;
+			}
+		}
+		.nav-link.active {
+			background-color: #00A877;
+			background: #00A877;
+			border-color: #00A877;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #00A877;
+						background: #00A877;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #00A877;
+						background: #00A877;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #00A877;
+		background: #00A877;
+		border-color: #00A877;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #00A877;
+				background: #00A877;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #00A877;
+						background: #00A877;
+						border-color: #00A877;
+					}
+					&:focus {
+						background-color: #00A877;
+						background: #00A877;
+						border-color: #00A877;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #00A877;
+		}
+		&:focus {
+			color: #00A877;
+		}
+	}
+	a {
+		&:hover {
+			color: #00A877;
+		}
+	}
+	.theme-cl {
+		color: #00A877;
+	}
+	.btn.btn-theme-light {
+		color: #00A877;
+		background: rgba(0, 168, 119, 0.1);
+	}
+	.bl-continue {
+		color: #00A877;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #00A877;
+					border-color: #00A877;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #00A877;
+				}
+				a {
+					&:hover {
+						color: #00A877;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #00A877;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #00A877;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #00A877;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #00A877;
+				border-color: #00A877;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #00A877;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #00A877;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #00A877;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #00A877;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #00A877;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #00A877;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #00A877;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #00A877;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #00A877;
+		}
+	}
+	.listing-card-info-price {
+		color: #00A877;
+	}
+}
+.purple-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		&:focus {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #7065ef;
+				background: #7065ef;
+			}
+			&:focus {
+				.purple-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #7065ef;
+							background: #7065ef;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #7065ef;
+		background: #7065ef;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #7065ef;
+				background: #7065ef;
+			}
+		}
+		label.active {
+			background-color: #7065ef;
+			background: #7065ef;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #7065ef;
+			background: #7065ef;
+			box-shadow: 0 8px 5px rgba(112, 101, 239, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(112, 101, 239, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+			}
+		}
+		.ui-widget-header {
+			background-color: #7065ef;
+			background: #7065ef;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+				&:focus {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+				&:hover {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+			}
+			>span {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+				&:focus {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+				&:hover {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+				&:hover {
+					background-color: #7065ef;
+					background: #7065ef;
+					border-color: #7065ef;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #7065ef;
+		background: #7065ef;
+		border-color: #7065ef;
+		&:hover {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		&:focus {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+	}
+	.btn.search-btn {
+		background-color: #7065ef;
+		background-color: #7065ef;
+		background: #7065ef;
+		background: #7065ef;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		&:focus {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		color: #7065ef;
+		border-color: #7065ef;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		&:focus {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+		color: #7065ef;
+		border-color: #7065ef;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #7065ef;
+			background: #7065ef;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #7065ef;
+				background: #7065ef;
+				border-color: #7065ef;
+			}
+		}
+		.nav-link.active {
+			background-color: #7065ef;
+			background: #7065ef;
+			border-color: #7065ef;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #7065ef;
+						background: #7065ef;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #7065ef;
+						background: #7065ef;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #7065ef;
+		background: #7065ef;
+		border-color: #7065ef;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #7065ef;
+				background: #7065ef;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #7065ef;
+						background: #7065ef;
+						border-color: #7065ef;
+					}
+					&:focus {
+						background-color: #7065ef;
+						background: #7065ef;
+						border-color: #7065ef;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #7065ef;
+		}
+		&:focus {
+			color: #7065ef;
+		}
+	}
+	a {
+		&:hover {
+			color: #7065ef;
+		}
+	}
+	.theme-cl {
+		color: #7065ef;
+	}
+	.btn.btn-theme-light {
+		color: #7065ef;
+		background: rgba(112, 101, 239, 0.1);
+	}
+	.bl-continue {
+		color: #7065ef;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #7065ef;
+					border-color: #7065ef;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #7065ef;
+				}
+				a {
+					&:hover {
+						color: #7065ef;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #7065ef;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #7065ef;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #7065ef;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #7065ef;
+				border-color: #7065ef;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #7065ef;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #7065ef;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #7065ef;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #7065ef;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #7065ef;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #7065ef;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #7065ef;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #7065ef;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #7065ef;
+		}
+	}
+	.listing-card-info-price {
+		color: #7065ef;
+	}
+}
+.goodred-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		&:focus {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #f40c43;
+				background: #f40c43;
+			}
+			&:focus {
+				.goodred-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #f40c43;
+							background: #f40c43;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #f40c43;
+		background: #f40c43;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #f40c43;
+				background: #f40c43;
+			}
+		}
+		label.active {
+			background-color: #f40c43;
+			background: #f40c43;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #f40c43;
+			background: #f40c43;
+			box-shadow: 0 8px 5px rgba(244, 12, 67,0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(244, 12, 67, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+			}
+		}
+		.ui-widget-header {
+			background-color: #f40c43;
+			background: #f40c43;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+				&:focus {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+				&:hover {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+			}
+			>span {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+				&:focus {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+				&:hover {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+				&:hover {
+					background-color: #f40c43;
+					background: #f40c43;
+					border-color: #f40c43;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #f40c43;
+		background: #f40c43;
+		border-color: #f40c43;
+		&:hover {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		&:focus {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+	}
+	.btn.search-btn {
+		background-color: #f40c43;
+		background-color: #f40c43;
+		background: #f40c43;
+		background: #f40c43;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		&:focus {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		color: #f40c43;
+		border-color: #f40c43;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		&:focus {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+		color: #f40c43;
+		border-color: #f40c43;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #f40c43;
+			background: #f40c43;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #f40c43;
+				background: #f40c43;
+				border-color: #f40c43;
+			}
+		}
+		.nav-link.active {
+			background-color: #f40c43;
+			background: #f40c43;
+			border-color: #f40c43;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #f40c43;
+						background: #f40c43;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #f40c43;
+						background: #f40c43;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #f40c43;
+		background: #f40c43;
+		border-color: #f40c43;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #f40c43;
+				background: #f40c43;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #f40c43;
+						background: #f40c43;
+						border-color: #f40c43;
+					}
+					&:focus {
+						background-color: #f40c43;
+						background: #f40c43;
+						border-color: #f40c43;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #f40c43;
+		}
+		&:focus {
+			color: #f40c43;
+		}
+	}
+	a {
+		&:hover {
+			color: #f40c43;
+		}
+	}
+	.theme-cl {
+		color: #f40c43;
+	}
+	.btn.btn-theme-light {
+		color: #f40c43;
+		background: rgba(244, 12, 67,0.1);
+	}
+	.bl-continue {
+		color: #f40c43;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #f40c43;
+					border-color: #f40c43;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #f40c43;
+				}
+				a {
+					&:hover {
+						color: #f40c43;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #f40c43;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #f40c43;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #f40c43;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #f40c43;
+				border-color: #f40c43;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #f40c43;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #f40c43;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #f40c43;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #f40c43;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #f40c43;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #f40c43;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #f40c43;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #f40c43;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #f40c43;
+		}
+	}
+	.listing-card-info-price {
+		color: #f40c43;
+	}
+}
+.goodgreen-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		&:focus {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #19b521;
+				background: #19b521;
+			}
+			&:focus {
+				.goodgreen-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #19b521;
+							background: #19b521;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #19b521;
+		background: #19b521;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #19b521;
+				background: #19b521;
+			}
+		}
+		label.active {
+			background-color: #19b521;
+			background: #19b521;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #19b521;
+			background: #19b521;
+			box-shadow: 0 8px 5px rgba(25, 181, 33, 0.2);
+			-webkit-box-shadow: 0 8px 5px rgba(25, 181, 33, 0.2);
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+			}
+		}
+		.ui-widget-header {
+			background-color: #19b521;
+			background: #19b521;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+				&:focus {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+				&:hover {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+			}
+			>span {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+				&:focus {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+				&:hover {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+				&:hover {
+					background-color: #19b521;
+					background: #19b521;
+					border-color: #19b521;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #19b521;
+		background: #19b521;
+		border-color: #19b521;
+		&:hover {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		&:focus {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+	}
+	.btn.search-btn {
+		background-color: #19b521;
+		background-color: #19b521;
+		background: #19b521;
+		background: #19b521;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		&:focus {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		color: #19b521;
+		border-color: #19b521;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		&:focus {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+		color: #19b521;
+		border-color: #19b521;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #19b521;
+			background: #19b521;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #19b521;
+				background: #19b521;
+				border-color: #19b521;
+			}
+		}
+		.nav-link.active {
+			background-color: #19b521;
+			background: #19b521;
+			border-color: #19b521;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #19b521;
+						background: #19b521;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #19b521;
+						background: #19b521;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #19b521;
+		background: #19b521;
+		border-color: #19b521;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #19b521;
+				background: #19b521;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #19b521;
+						background: #19b521;
+						border-color: #19b521;
+					}
+					&:focus {
+						background-color: #19b521;
+						background: #19b521;
+						border-color: #19b521;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #19b521;
+		}
+		&:focus {
+			color: #19b521;
+		}
+	}
+	a {
+		&:hover {
+			color: #19b521;
+		}
+	}
+	.theme-cl {
+		color: #19b521;
+	}
+	.btn.btn-theme-light {
+		color: #19b521;
+		background: rgba(25, 181, 33, 0.1);
+	}
+	.bl-continue {
+		color: #19b521;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #19b521;
+					border-color: #19b521;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #19b521;
+				}
+				a {
+					&:hover {
+						color: #19b521;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #19b521;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #19b521;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #19b521;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #19b521;
+				border-color: #19b521;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #19b521;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #19b521;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #19b521;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #19b521;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #19b521;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #19b521;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #19b521;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #19b521;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #19b521;
+		}
+	}
+	.listing-card-info-price {
+		color: #19b521;
+	}
+}
+.blue2-skin {
+	.btn-theme-2 {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+		&:hover {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		&:focus {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+	}
+	.top-header {
+		background-color: #252c41;
+		background: #252c41;
+		border-color: #252c41;
+	}
+	.pricing-bottom {
+		.btn-pricing {
+			background-color: #252c41;
+			background: #252c41;
+			border-color: #252c41;
+			&:hover {
+				background-color: #0176ff;
+				background: #0176ff;
+			}
+			&:focus {
+				.blue2-skin {
+					.select2-container--default {
+						.select2-results__option--highlighted[aria-selected] {
+							background-color: #0176ff;
+							background: #0176ff;
+						}
+					}
+				}
+			}
+		}
+	}
+	.hero-search {
+		h1 {
+			color: #2D3954 !important;
+		}
+	}
+	.theme-bg {
+		background-color: #0176ff;
+		background: #0176ff;
+	}
+	.property-search-type {
+		label {
+			&:hover {
+				background-color: #0176ff;
+				background: #0176ff;
+			}
+		}
+		label.active {
+			background-color: #0176ff;
+			background: #0176ff;
+		}
+	}
+	li.login-attri.theme-log {
+		a {
+			background-color: #0176ff;
+			background: #0176ff;
+			box-shadow: 0 8px 5px #4f5b7d;
+			-webkit-box-shadow: 0 8px 5px #4f5b7d;
+		}
+	}
+	.range-slider {
+		.ui-slider {
+			.ui-slider-handle {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+			}
+		}
+		.ui-widget-header {
+			background-color: #0176ff;
+			background: #0176ff;
+		}
+	}
+	.pagination {
+		li {
+			&:first-child {
+				a {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+			}
+		}
+		>.active {
+			>a {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+				&:focus {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+				&:hover {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+			}
+			>span {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+				&:focus {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+				&:hover {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+			}
+		}
+		>li {
+			>a {
+				&:focus {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+				&:hover {
+					background-color: #0176ff;
+					background: #0176ff;
+					border-color: #0176ff;
+				}
+			}
+		}
+	}
+	.btn.btn-theme {
+		background-color: #0176ff;
+		background: #0176ff;
+		border-color: #0176ff;
+		&:hover {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		&:focus {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+	}
+	.btn.search-btn {
+		background-color: #0176ff;
+		background-color: #0176ff;
+		background: #0176ff;
+		background: #0176ff;
+	}
+	.btn-outline-theme {
+		&:hover {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		&:focus {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		color: #0176ff;
+		border-color: #0176ff;
+	}
+	.simple-search-wrap {
+		.pk-input-group {
+			.pk-subscribe-submit {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+			}
+		}
+	}
+	.btn.search-btn-outline {
+		&:hover {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		&:focus {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+		color: #0176ff;
+		border-color: #0176ff;
+	}
+	.property-listing.property-1 {
+		.listing-detail-btn {
+			.more-btn {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+			}
+		}
+	}
+	.home-slider-desc {
+		.read-more {
+			background-color: #0176ff;
+			background: #0176ff;
+		}
+	}
+	.nav-tabs {
+		.nav-item.show {
+			.nav-link {
+				background-color: #0176ff;
+				background: #0176ff;
+				border-color: #0176ff;
+			}
+		}
+		.nav-link.active {
+			background-color: #0176ff;
+			background: #0176ff;
+			border-color: #0176ff;
+		}
+	}
+	.checkbox-custom {
+		&:checked {
+			+ {
+				.checkbox-custom-label {
+					&:before {
+						background-color: #0176ff;
+						background: #0176ff;
+					}
+				}
+			}
+		}
+	}
+	.radio-custom {
+		&:checked {
+			+ {
+				.radio-custom-label {
+					&:before {
+						background-color: #0176ff;
+						background: #0176ff;
+					}
+				}
+			}
+		}
+	}
+	.btn.pop-login {
+		background-color: #0176ff;
+		background: #0176ff;
+		border-color: #0176ff;
+	}
+	.single-widgets.widget_search {
+		form {
+			button {
+				background-color: #0176ff;
+				background: #0176ff;
+			}
+		}
+	}
+	.single-widgets.widget_tags {
+		ul {
+			li {
+				a {
+					&:hover {
+						background-color: #0176ff;
+						background: #0176ff;
+						border-color: #0176ff;
+					}
+					&:focus {
+						background-color: #0176ff;
+						background: #0176ff;
+						border-color: #0176ff;
+					}
+				}
+			}
+		}
+	}
+	a.link {
+		&:hover {
+			color: #0176ff;
+		}
+		&:focus {
+			color: #0176ff;
+		}
+	}
+	a {
+		&:hover {
+			color: #0176ff;
+		}
+	}
+	.theme-cl {
+		color: #0176ff;
+	}
+	.btn.btn-theme-light {
+		color: #0176ff;
+		background: rgba(1, 118, 255,0.1);
+	}
+	.bl-continue {
+		color: #0176ff;
+	}
+	.header-dark-transparent.header-fixed {
+		.attributes {
+			li.submit-attri {
+				a {
+					color: #0176ff;
+					border-color: #0176ff;
+				}
+			}
+		}
+	}
+	nav {
+		.menu {
+			li {
+				a.active {
+					color: #0176ff;
+				}
+				a {
+					&:hover {
+						color: #0176ff;
+					}
+				}
+			}
+			li.dropdown.open {
+				>a {
+					color: #0176ff;
+				}
+			}
+			.mg-menu {
+				li {
+					a {
+						i {
+							color: #0176ff;
+						}
+					}
+				}
+			}
+		}
+	}
+	.recommended {
+		.pr-value {
+			color: #0176ff;
+		}
+	}
+	.attributes {
+		li.submit-attri.theme-log {
+			a {
+				color: #0176ff;
+				border-color: #0176ff;
+			}
+		}
+	}
+	.dw-proprty-info {
+		li {
+			color: #0176ff;
+		}
+	}
+	.ps-trep {
+		.ps-type {
+			color: #0176ff;
+		}
+	}
+	.d-navigation {
+		ul {
+			li.active {
+				a {
+					color: #0176ff;
+				}
+			}
+		}
+	}
+	span.mod-close {
+		color: #0176ff;
+	}
+	.blog-page {
+		.blog-details {
+			blockquote {
+				.icon {
+					color: #0176ff;
+				}
+			}
+			.comment-area {
+				.all-comments {
+					article {
+						.comment-details {
+							.comment-meta {
+								.comment-left-meta {
+									.comment-date {
+										color: #0176ff;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	.single-post-pagination {
+		.post-pagination-center-grid {
+			a {
+				color: #0176ff;
+			}
+		}
+	}
+	.cn-info-icon {
+		i {
+			color: #0176ff;
+		}
+	}
+	.client-info {
+		h5 {
+			color: #0176ff;
+		}
+	}
+	.listing-card-info-price {
+		color: #0176ff;
+	}
+}
+a {
+	&:focus {
+		color: #f02c2d;
+		color: #0fca98;
+		color: #1266e3;
+		color: #ffa50d;
+		color: #0F52BA;
+		color: #00A877;
+		color: #7065ef;
+		color: #f40c43;
+		color: #19b521;
+		color: #0176ff;
+	}
+}
+}
